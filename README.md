@@ -3,7 +3,7 @@
 # CocktailWave
 🔭 I’m currently working on [CocktailWave](https://www.cocktailwave.com) - as place where you can find a curated list of all the cocktails
 
-https://cocktailwave.com - is a perfect place if you're:
+https://www.cocktailwave.com - is a perfect place if you're:
 - in a bar on saturday and don't know what do drink
 - at home thinking what cocktail to make
 
